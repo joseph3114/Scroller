@@ -52,6 +52,8 @@ public class Scroller {
 			}
 		});
 
+		
+		//Missing d.add
 		p.add(s);
 		p.add(tf);
 
